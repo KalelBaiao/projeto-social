@@ -12,7 +12,7 @@ html, body {
     background-color: black;
 }
 body{
-    background: url('../img/fundo-madeira.jpg') no-repeat top center;
+    background: url('../img/fundo.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
 }
